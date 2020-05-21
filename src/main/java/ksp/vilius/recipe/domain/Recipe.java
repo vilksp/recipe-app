@@ -1,7 +1,5 @@
 package ksp.vilius.recipe.domain;
 
-import ksp.vilius.recipe.Ingredient;
-
 import javax.persistence.*;
 import java.util.Set;
 
